@@ -48,3 +48,6 @@ This project demonstrates how to create a robust Virtual Private Cloud (VPC) set
 
 
 This setup provides a reliable and secure infrastructure for hosting applications in AWS. For detailed implementation steps, refer to the AWS documentation.
+
+
+![1705754609676](https://github.com/JatinSaini003/VPC-with-Public-Private-Subnet-in-Production/assets/107756221/c677c5d1-8b33-4083-a2f9-f2565ddaf50d)
